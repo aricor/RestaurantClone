@@ -1,0 +1,81 @@
+.main {
+    background-color: blanchedalmond;
+}
+
+.video-wrapper {
+    position: relative;
+    border: 1px solid red;
+    padding: 0px;
+}
+
+.our-story {
+    /* border: 1px solid red; */
+    text-align: center;
+    margin-top: 0vh;
+}
+
+.our-story p{
+    font-size: 3vw;
+    max-width: 72vw;
+    margin: auto;
+    /* border: 1px solid red; */
+    font-family: Clarendon Light;
+    margin-top: 0px;
+}
+
+.story-header {
+    color: red;
+    font-size: 16.5vw;
+    font-family: La Pontaise;
+    /* border: 1px solid red; */
+    margin-bottom: 0px;
+    margin-top: 0vh;
+}
+
+.footer-row {
+    display: flex;
+    justify-content: space-around;
+    background-color: dimgrey;
+    position: relative;
+    height: 20vh;
+}
+
+.logo {
+    height: 4vw;
+    width: 4vw;
+}
+
+.column {
+    padding-top: 1%;
+}
+
+.column a {
+    font-size: 1.4641288433vw;
+    text-decoration: none;
+    color: #fcf5eb;
+}
+
+.social-media {
+    display: inline;
+}
+
+.social-media img {
+    margin-left: 1%;
+    height: 4vw;
+    width: auto;
+}
+
+.copy-right {
+    color: #fcf5eb;
+    margin-top: 1%;
+}
+
+.submit-form {
+    background-color: #fcf5eb;
+}
+
+.email {
+    display: inline;
+}
+
+

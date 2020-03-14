@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link href="index.css" rel="stylesheet"/>
+
 </head>
 <body>
     <nav class="navigate">
@@ -25,17 +27,56 @@
     </nav>
 
     <div class="main">
+        <div class = "video-wrapper">
+            <video class="video-content" controls>
+                <source src="https://lusinespace.com/wp-content/uploads/2018/04/Lusine_Saigon_MASTER_H264_x264.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="our-story">
+            <h1 class="story-header">Our story</h1>
+            <p>Over the years, L’Usine has evolved into one of Vietnam’s most-loved lifestyle brands, bringing together a diverse range of products, people and ideas in one space.</p>
+            <br>
+            <p>We are not native to Saigon, but being from another place gave us perspective. We are overwhelmed by the Saigon story, and our journal brings our vision of that to the world.</p>
+        </div>
 
     </div>
-
     <footer>
-        <div>
-           <!-- copy right info -->
-            <a href="#">Home</a> | <a href="#">Menu</a>
-        </div>
-       
-        <div>
-            <!-- contact info -->
+        <div class="footer-row">
+            <div class="column">
+                <div class="logo">
+                    <a href="index.html">
+                        <img src="https://lusinespace.com/wp-content/uploads/2018/02/logo-white.svg" alt="Logo"/>
+                    </a>
+                </div>
+            </div>
+            <div class="column">
+                <div><a href="location.html">Location</a></div>
+                <div><a href="delivery.html">Delivery</a></div>
+                <div><a href="bookTable.html">Book a Table</a></div>
+                <div><a href="feedback.html">Feedback</a></div>
+            </div>
+            <div class="column">
+                <div><a>News letter</a></div>
+                <div class="submit-form">
+                    <input type="email" class="email" placeholder="Enter your email here">
+                    <span class="submit-button">
+                        Submit
+                    </span>
+                </div>
+            </div>
+            <div class="column">
+                <a href="https://www.facebook.com/Lusinespace/" class="social-media">
+                    <img src="https://lusinespace.com/wp-content/uploads/2018/02/facebook-white.svg" alt="Facebook" class="c-footer__facebook">
+                </a>
+                <a href="https://www.instagram.com/lusinespace/?hl=en" class="social-media">
+                    <img src="https://lusinespace.com/wp-content/uploads/2018/02/instagram-white.svg" alt="Instagram" class="c-footer__instagram">
+                </a>
+                <div class="copy-right">
+                    <a href="https://www.l-concepts.com">
+                        © 2018 by L Concepts
+                    </a>
+                </div>
+            </div>
         </div>
     </footer>
 </body>
