@@ -1,188 +1,169 @@
 .main {
-    background-color:  #fcf5eb;
+  background-color: #fcf5eb;
 }
 
 .video-wrapper {
-    position: relative;
-    padding: 0px;
+  position: relative;
+  padding: 0px;
 }
 
 .our-story {
-    text-align: center;
-    margin-top: 0vw;
-    padding-bottom: 5vw;
+  text-align: center;
+  margin-top: 0vw;
+  padding-bottom: 5vw;
 }
 
-.our-story p{
-    font-size: 3vw;
-    max-width: 72vw;
-    margin: auto;
-    font-family: Clarendon Light;
-    margin-top: 0vw;
+.our-story p {
+  font-size: 3vw;
+  max-width: 72vw;
+  margin: auto;
+  font-family: Clarendon Light;
+  margin-top: 0vw;
 }
 
 .story-header {
-    color: red;
-    font-size: 16.5vw;
-    font-family: La Pontaise;
-    margin-bottom: 0vw;
-    margin-top: 0vw;
+  color: red;
+  font-size: 16.5vw;
+  font-family: La Pontaise;
+  margin-bottom: 0vw;
+  margin-top: 0vw;
 }
 
 .footer-row {
-    display: flex;
-    justify-content: space-around;
-    background-color: dimgrey;
-    position: relative;
-    height: 20vh;
+  display: flex;
+  justify-content: space-around;
+  background-color: dimgrey;
+  position: relative;
+  height: 20vh;
 }
 
 .logo {
-    height: 4vw;
-    width: 4vw;
+  height: 4vw;
+  width: 4vw;
 }
 
 .column {
-    padding-top: 1%;
+  padding-top: 1%;
 }
 
 .column a {
-    font-size: 1.4641288433vw;
-    text-decoration: none;
-    color: #fcf5eb;
+  font-size: 1.4641288433vw;
+  text-decoration: none;
+  color: #fcf5eb;
 }
 
 .social-media {
-    display: inline;
+  display: inline;
 }
 
 .social-media img {
-    margin-left: 1%;
-    height: 4vw;
-    width: auto;
+  margin-left: 1%;
+  height: 4vw;
+  width: auto;
 }
 
 .copy-right {
-    color: #fcf5eb;
-    margin-top: 1%;
+  color: #fcf5eb;
+  margin-top: 1%;
 }
 
 .submit-form {
-    background-color: #fcf5eb;
+  background-color: #fcf5eb;
 }
 
 .email {
-    display: inline;
+  display: inline;
 }
 
 .navigate img {
-    width:  100%;
-    height: 50%;
+  width: 100%;
+  height: 50%;
 }
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Playfair+Display:wght@800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Playfair+Display:wght@800&display=swap");
 .textNavigate {
-    display: flex; 
-    background-color: #fcf5eb; 
-    padding: 30px; 
-    display: flex;
-    align-items: center;
-    position: sticky; 
-    font-family: 'Playfair Display', serif;
+  display: flex;
+  background-color: #fcf5eb;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  position: sticky;
+  font-family: "Playfair Display", serif;
 }
 
 .navigate a {
-   text-decoration: none;
-   color: #293333; 
-   font-size: 50px; 
-   margin-bottom: 50px;
-   margin-right: 35px;
+  text-decoration: none;
+  color: #293333;
+  font-size: 50px;
+  margin-bottom: 50px;
+  margin-right: 35px;
 }
 
-  .navigate a:hover {
-    color: #FF5252;
-  }
+.navigate a:hover {
+  color: #ff5252;
+}
 
-  .sub-menu {
-    position: absolute; 
-    background-color: #fcf5eb; 
-    list-style-type: none; 
-    width: 220px; 
-    padding-left: 5px;
-    margin-left: 1px; 
-    padding-top:5px; 
-    opacity:0; 
-    position:relative;
-  }
+.sub-menu {
+  position: absolute;
+  background-color: #fcf5eb;
+  list-style-type: none;
+  width: 220px;
+  padding-left: 5px;
+  margin-left: 1px;
+  padding-top: 5px;
+  opacity: 0;
+}
 .navigate-details > ul {
-    list-style-type: none;
-    margin-left: -35px;
+  list-style-type: none;
+  margin-left: -35px;
 }
 
-  ul .sub-menu {
-    padding-left: 10px; 
-    padding-top: 5px; 
-    padding-bottom: 5px; 
-  }
-  .textNavigate li:hover .sub-menu {
-      opacity:1;
-
-  }
+ul .sub-menu {
+  padding-bottom: 5px;
+}
+.textNavigate li:hover .sub-menu {
+  opacity: 1;
+}
 
 .navigate img {
-    width:  100%;
-    height: 70%;
+  width: 100%;
+  height: 70%;
 }
 .centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size:400px;
-    color:white;
-  }
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Playfair+Display:wght@800&display=swap');
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 400px;
+  color: white;
+}
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Playfair+Display:wght@800&display=swap");
 .textNavigate {
-    display: flex; 
-    background-color: #fcf5eb; 
-    padding: 30px; 
-    display: flex;
-    align-items: center;
-    position: sticky; 
-    font-family: 'Playfair Display', serif;
+  display: flex;
+  background-color: #fcf5eb;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  position: sticky;
+  font-family: "Playfair Display", serif;
 }
 
 .navigate a {
-   text-decoration: none;
-   color: #293333; 
-   font-size: 50px; 
-   margin-bottom: 50px;
-   margin-right: 35px;
+  text-decoration: none;
+  color: #293333;
+  font-size: 50px;
+  margin-bottom: 50px;
+  margin-right: 35px;
 }
 
-  .navigate a:hover {
-    color: #FF5252;
-  }
+.navigate a:hover {
+  color: #ff5252;
+}
 
-  .sub-menu {
-    position: absolute; 
-    background-color: #fcf5eb; 
-    list-style-type: none; 
-    width: 220px; 
-    padding-left: 5px;
-    margin-left: 1px; 
-    padding-top:5px; 
-    opacity:0; 
-  }
 .navigate-details > ul {
-    list-style-type: none;
-    margin-left: -35px;
+  list-style-type: none;
+  margin-left: -35px;
 }
 
-  ul .sub-menu {
-    padding-left: 10px; 
-    padding-top: 5px; 
-    padding-bottom: 5px; 
-  }
-  .textNavigate li:hover .sub-menu {
-      opacity:1
-  }
+.textNavigate li:hover .sub-menu {
+  opacity: 1;
+}
