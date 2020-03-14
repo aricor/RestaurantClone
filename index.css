@@ -9,7 +9,6 @@
 }
 
 .our-story {
-    /* border: 1px solid red; */
     text-align: center;
     margin-top: 0vh;
 }
@@ -18,7 +17,6 @@
     font-size: 3vw;
     max-width: 72vw;
     margin: auto;
-    /* border: 1px solid red; */
     font-family: Clarendon Light;
     margin-top: 0px;
 }
@@ -27,7 +25,6 @@
     color: red;
     font-size: 16.5vw;
     font-family: La Pontaise;
-    /* border: 1px solid red; */
     margin-bottom: 0px;
     margin-top: 0vh;
 }
