@@ -1,0 +1,18 @@
+.navigate {
+    position:fixed;
+    top:0;
+    width:100%;
+}
+
+.contentBelow {
+    text-align: center;
+    width: 100%;
+    font-size: 110px; 
+    color: #FF5252;
+    left: 50%;
+    margin-right: -50%;
+}
+
+.content1 .content2 {
+
+}
