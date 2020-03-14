@@ -4,13 +4,13 @@
 
 .video-wrapper {
     position: relative;
-    border: 1px solid red;
     padding: 0px;
 }
 
 .our-story {
     text-align: center;
-    margin-top: 0vh;
+    margin-top: 0vw;
+    padding-bottom: 5vw;
 }
 
 .our-story p{
@@ -18,15 +18,15 @@
     max-width: 72vw;
     margin: auto;
     font-family: Clarendon Light;
-    margin-top: 0px;
+    margin-top: 0vw;
 }
 
 .story-header {
     color: red;
     font-size: 16.5vw;
     font-family: La Pontaise;
-    margin-bottom: 0px;
-    margin-top: 0vh;
+    margin-bottom: 0vw;
+    margin-top: 0vw;
 }
 
 .footer-row {

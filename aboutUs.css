@@ -1,0 +1,19 @@
+.about-us-content {
+    margin-top: 4vw;
+}
+
+.about-us-content  p {
+    font-size: 3vw;
+    margin: auto;
+    max-width: 73vw;
+    text-align: center;
+    font-family: Clarendon Light;
+    color: #293333;
+}
+
+.sofa-image-wrapper img {
+    height: 56 vw;
+    width: 73vw;
+    margin: auto;
+    display: block;
+}
